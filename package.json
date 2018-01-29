@@ -1,0 +1,7 @@
+{
+  "name": "ob-content",
+  "version": "0.0.1",
+  "description": "Content for orangebloggen.no",
+  "main": "main.js",
+  "author": "Benedicte Raae (@raae)"
+}
