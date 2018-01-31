@@ -15,6 +15,8 @@ Passord er noe hærk!
 4. Punktene over resulterer i at du burde bruke et passord-håndteringsprogram
 
 * eller en notatbok alla [My password journal](TODO: lenke).
+http://amzn.to/2DZSDEX
+
 
 ## \1. Sikre og sterke passord
 
