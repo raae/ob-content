@@ -5,17 +5,16 @@ draft: true
 
 Passord er noe hærk!
 
-Ønsker du kun løsning klikk deg videre til [1Password](https://1password.com/) og gjør som de sier. Følger du deres instruksjoner vil du automatisk få gode passord rutiner. Ønsker du å lære mer fortsett å les.
+Ønsker du kun løsning klikk deg videre til [1Password](https://1password.com/) og gjør som de sier. Følger du deres instruksjoner vil du automatisk få gode passordrutiner. Ønsker du å lære mer fortsett å les.
 
 # Gode passord rutiner
 
 1. Bruk sikre og sterke passord
 2. Ikke bruk samme passord flere steder.
-3. Er det ekstra viktig, skru på to faktor autentisering.
+3. Er det ekstra viktig, skru på to-faktor autentisering.
 4. Punktene over resulterer i at du burde bruke et passord-håndteringsprogram
 
-* eller en notatbok alla [My password journal](TODO: lenke).
-http://amzn.to/2DZSDEX
+* eller en notatbok alla [My password journal](http://amzn.to/2DZSDEX).
 
 
 ## \1. Sikre og sterke passord
@@ -35,6 +34,7 @@ Når en av tjeneste du bruker blir "eid" og innloggingsdetaljene dine solg til h
 Innloggingsdetaljer lekkes oftere enn man skulle tro og du kan sjekke om din bruker har vært del av noen av internasjonale skandalene på [Have I've been pawned](https://haveibeenpwned.com/).
 
 TODO: Bilde av mine breaches
+Ola har bilde av sine breaches
 
 ## \3. To faktor autentisering.
 
@@ -44,11 +44,12 @@ TODO: Hvorfor er to faktor authentisering bra?
 
 ## \4. Passord-håndteringsprogram
 
-I realiteten betyr al dette dette at du burde skaffe deg en passord manager. Jeg anbefaler [1Password](https://1password.com/).
+I realiteten betyr alt dette at du burde skaffe deg en passordmanager. Jeg anbefaler [1Password](https://1password.com/).
 
 TODO: Skrive noe mer om hvordan det fungerer. Og at det er digg at den genererer passord for deg.
+Ola foreslår: Jeg liker spesielt godt at 1Password lager sterke passord for meg hvis jeg vil.
 
-Manger spørr med da "Men er 1Password sikker da?". Ingenting er på internett er uhackbart, men 1Passwords leverbrød er sikkerhet og det eneste de jobber med. Derfor er de nok sikkrere enn de fleste tjnester du bruker, og så er det uendelig mye bedre enn at du prøver å huske 100 sikre og sterke passord.
+Mange spør meg da "Men er 1Password sikker da?". Ingenting på internett er uhackbart, men 1Passwords leverbrød er sikkerhet og det eneste de jobber med. Derfor er de nok sikkrere enn de fleste tjenester du bruker, og så er det uendelig mye bedre enn at du prøver å huske 100 sikre og sterke passord.
 
 Som sikkerhetsekspert Troy Hunt skriver på sin blogg: [Password managers don't have to be perfect, they just have to be better than not having one](https://www.troyhunt.com/password-managers-dont-have-to-be-perfect-they-just-have-to-be-better-than-not-having-one/).
 
