@@ -24,7 +24,7 @@ Lange relativt enkle passord "dwelling-tripod-dryad-specula", er bedre enn korte
 
 "Men vent nå litt. På jobben er det maks 12 tegn og det må være minst 1 tall og et spesialtegn" tenker du kansje. Dem om det!
 
-[![xkcd comic strip](https://xkcd.com/936/ "Password Strength")](https://xkcd.com/936/)
+![xkcd comic strip](https://xkcd.com/936/ "Password Strength")
 
 TODO: skrive noe mer om hvorfor og lenke til ressurser?
 
